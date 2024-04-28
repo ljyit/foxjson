@@ -16,3 +16,7 @@ VFP中完整的json读写类包装，可以解析、修改、生成JSON。
 
 test_fll.prg,test_Read.prg,test_readwrite.prg
 这三个文件均是针对上面三个基础组件的测试代码
+
+
+*新增：
+JsonToObject()  ObjectToJson() 直接与VFP对像互转 (json中的数组对应VFP的集合)
